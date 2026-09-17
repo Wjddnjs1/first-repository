@@ -4,3 +4,4 @@ def gcd(a, b):
     return a
 
 print(gcd(91, 35))
+print("Hi, I'm a bug which kill your cimputer. 😈😈")
